@@ -55,17 +55,19 @@ body {
     max-width: 10em;
 }
 
+#footer-legal {
+    margin-bottom: auto;
+}
+
+.modal-dialog {
+    max-width: 600px;
+}
+
 .text-middle {
     color: white;
     font-size: 2em;
     font-weight: 800;
     text-align: center;
-    /*
-    position: relative;
-    display: grid;
-    align-items: start;
-    grid-column: 2 / 3;
-    grid-row: 2 / 3;*/
 }
 
 .landing-page-pictures {
@@ -75,43 +77,4 @@ body {
 
 .img-thumbnail {
     background-color: rgba(240, 240, 240, 0.85)
-}
-/*
-.landing-branding {
-    display: grid;
-    align-content: center;
-    justify-content: center;
-    grid-template-columns: 20% 40% 20%;
-    grid-template-rows: 1fr 1fr;
-    grid-gap: 1.5em;
-}
-
-.side {
-    max-width: 90%;
-    height: auto;
-}
-
-.bottom-middle {
-    grid-column: 2 / 3;
-    grid-row: 2 / 3;
-    margin: auto;
-}
-
-.top-middle, .bottom-middle {
-    max-width: 90%;
-    height: auto;
-}
-
-.bottom-left {
-    grid-column: 1 / 2;
-    grid-row: 2 / 3;
-}
-
-.bottom-right {
-    grid-column: 3 / 4;
-    grid-row: 2 / 3;
-}
-
-.top-left, .top-middle, .top-right {
-    margin: 10px auto 0px auto;
 }
