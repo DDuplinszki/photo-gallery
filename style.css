@@ -59,6 +59,10 @@ body {
     margin-bottom: auto;
 }
 
+#footer-legal:hover {
+    cursor: pointer;
+}
+
 .modal-dialog {
     max-width: 600px;
 }
@@ -70,11 +74,7 @@ body {
     text-align: center;
 }
 
-.landing-page-pictures {
-    max-width: 100%;
-    height: auto;
-}
-
 .img-thumbnail {
-    background-color: rgba(240, 240, 240, 0.85)
+    background-color: rgba(240, 240, 240, 0.85);
+    box-shadow: 0px 0px 10px 0px #0a0a23;
 }
