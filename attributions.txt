@@ -41,7 +41,28 @@ Photo by <a href="https://unsplash.com/@hasanalmasi?utm_source=unsplash&utm_medi
 Foggy mountains
 
 Photo by <a href="https://unsplash.com/@samferrara?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Samuel Ferrara</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+ 
+Plant
+
+Photo by <a href="https://unsplash.com/@chrisleeiam?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Chris Lee</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
+Cacti
+
+Photo by <a href="https://unsplash.com/@anniespratt?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Annie Spratt</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
+Taking a photo
+
+Photo by <a href="https://unsplash.com/@simoncating?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">li shanting</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
+Front of the laptop
+
+Photo by <a href="https://unsplash.com/@windows?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Windows</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
+Walking on the road
+
+Photo by <a href="https://unsplash.com/@tegan?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Tegan Mierle</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
 Camera favicon
 
 <a href="https://www.flaticon.com/free-icons/photography" title="photography icons">Photography icons created by Freepik - Flaticon</a>
+
