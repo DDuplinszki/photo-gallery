@@ -11,6 +11,17 @@ body {
     background-image: url("assets/pictures/samuel-ferrara-1527pjeb6jg-unsplash.webp");
 }
 
+a {
+    text-decoration: none;
+    color: white;
+}
+
+nav {
+    position: sticky;
+    top: 0;
+    box-shadow: 0px 1px 3px 0px #0a0a23;
+}
+
 .nav-items, .footer-items {
     margin: 0;
     padding: 10px 0px 10px 0px;
@@ -18,6 +29,15 @@ body {
     background-color: #0a0a23;
     color: white;
     display: flex;
+}
+
+.nav-items p, .footer-items p {
+    margin-bottom: auto;
+}
+
+.nav-items p:hover, .footer-items p:hover, .footer-items a:hover, .nav-items a:hover {
+    color: #4f9cff;
+    transition-duration: 0.5s;
 }
 
 .nav-items li, .footer-items li {
@@ -41,25 +61,23 @@ body {
     flex: 1 0 auto;
 }
 
-.footer {
-    flex-shrink: 0;
+.footer-items li:not(:first-child) {
+    justify-content: center;
 }
 
 .footer-items li:nth-child(2) {
-    justify-content: center;
     max-width: 6em;
 }
 
 .footer-items li:last-child {
-    justify-content: center;
     max-width: 10em;
 }
 
-#footer-legal {
+#footer-legal, #footer-about {
     margin-bottom: auto;
 }
 
-#footer-legal:hover {
+#footer-legal:hover, #footer-about:hover, #nav-logo:hover {
     cursor: pointer;
 }
 
