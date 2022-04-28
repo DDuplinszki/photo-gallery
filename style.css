@@ -11,15 +11,15 @@ body {
     background-image: url("assets/pictures/samuel-ferrara-1527pjeb6jg-unsplash.webp");
 }
 
-a {
-    text-decoration: none;
-    color: white;
-}
-
 nav {
     position: sticky;
     top: 0;
     box-shadow: 0px 1px 3px 0px #0a0a23;
+}
+
+.nav-items a, .footer a {
+    color: white;
+    text-decoration: none;
 }
 
 #about-body {
@@ -42,6 +42,7 @@ nav {
 .nav-items p:hover, .footer-items p:hover, .footer-items a:hover, .nav-items a:hover {
     color: #4f9cff;
     transition-duration: 0.5s;
+    cursor: pointer;
 }
 
 .nav-items li, .footer-items li {
@@ -81,13 +82,18 @@ nav {
     margin-bottom: auto;
 }
 
-#footer-legal:hover, #footer-about:hover, #nav-logo:hover {
+/* #footer-legal:hover, #footer-about:hover, #nav-logo:hover {
     cursor: pointer;
-}
+} */
 
 .modal-dialog {
     max-width: 600px;
 }
+
+/* .modal-body a {
+    text-decoration: initial;
+    color: #89c4f0;
+} */
 
 .text-middle {
     color: white;
