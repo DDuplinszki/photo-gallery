@@ -11,6 +11,14 @@ body {
     background-image: url("assets/pictures/samuel-ferrara-1527pjeb6jg-unsplash.webp");
 }
 
+#sign-up-body {
+    background-image: url("assets/pictures/kazuend-19SC2oaVZW0-unsplash.jpg");
+}
+
+#main-content {
+    flex: 1 0 auto;
+}
+
 nav {
     position: sticky;
     top: 0;
@@ -60,10 +68,6 @@ nav {
 .nav-items li:not(:first-child) {
     justify-content: center;
     max-width: 5em;
-}
-
-.main-content {
-    flex: 1 0 auto;
 }
 
 .footer-items li:not(:first-child) {
