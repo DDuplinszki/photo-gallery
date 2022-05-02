@@ -138,3 +138,7 @@ nav {
     background-color: white;
     margin-top: 10%;
 }
+
+#profile-icon {
+    display: none;
+}
