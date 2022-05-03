@@ -16,6 +16,9 @@ body {
 }
 
 #main-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
     flex: 1 0 auto;
 }
 
@@ -33,6 +36,8 @@ nav {
 #about-body {
     background-image: none;
 }
+
+/***** NAV *****/
 
 .nav-items, .footer-items {
     margin: 0;
@@ -70,6 +75,8 @@ nav {
     max-width: 5em;
 }
 
+/***** FOOTER *****/
+
 .footer-items li:not(:first-child) {
     justify-content: center;
 }
@@ -86,18 +93,9 @@ nav {
     margin-bottom: auto;
 }
 
-/* #footer-legal:hover, #footer-about:hover, #nav-logo:hover {
-    cursor: pointer;
-} */
-
 .modal-dialog {
     max-width: 600px;
 }
-
-/* .modal-body a {
-    text-decoration: initial;
-    color: #89c4f0;
-} */
 
 .text-middle {
     color: white;
@@ -116,7 +114,6 @@ nav {
     color: white;
     font-size: 3em;
     font-weight: 800;
-    /* -webkit-text-stroke: 2px black; */
 }
 
 .sign-up-heading {
@@ -134,11 +131,16 @@ nav {
     transform: translate(-50%, -50%);
 }
 
-.sign-up-area {
+.sign-up-area, .login-area {
     background-color: white;
-    margin-top: 10%;
+    border: 1px solid black;
+    border-radius: 20px;
 }
 
 #profile-icon {
     display: none;
+}
+
+.form-title {
+    text-align: center;
 }
