@@ -185,4 +185,36 @@ nav {
     .promo-header {
         margin-bottom: 0;
     }
+    .free-join-heading {
+        font-size: 2em;
+        top:0;
+    }
+    .sign-up-heading {
+        font-size: 2em;
+        top: 35%;
+        left: 45%;
+    }
+    .sign-up-button {
+        left: 45%;
+        top: 45%;
+    }
+    .side-pictures {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    .free-join-heading {
+        font-size: 2em;
+        top:0;
+    }
+    .sign-up-heading {
+        font-size: 2em;
+        top: 35%;
+        left: 45%;
+    }
+    .sign-up-button {
+        left: 45%;
+        top: 45%;
+    }
 }
