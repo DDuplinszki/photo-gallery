@@ -153,6 +153,19 @@ nav {
         font-size: 20px;
         margin-bottom: 0;
     }
+    .free-join-heading {
+        font-size: 1.5em;
+        top:0;
+    }
+    .sign-up-heading {
+        font-size: 1.5em;
+        top: 35%;
+        left: 40%;
+    }
+    .sign-up-button {
+        left: 40%;
+        top: 45%;
+    }
 }
 
 @media screen and (max-width: 768px) {
@@ -168,5 +181,8 @@ nav {
     .about-intro-plant {
         order: 3;
         display: none;
+    }
+    .promo-header {
+        margin-bottom: 0;
     }
 }
